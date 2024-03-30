@@ -1,0 +1,23 @@
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+.form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.no-underline {
+    text-decoration-line: none;
+}
+
+.header {
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    gap: 15px;
+}
